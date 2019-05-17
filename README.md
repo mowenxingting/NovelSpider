@@ -1,0 +1,2 @@
+# NovelSpider
+学习试写的python语言scrapy框架完成的简单爬虫程序，爬取小说并按书籍、章节存储内容到Mysql数据库，数据可用于其他测试。
